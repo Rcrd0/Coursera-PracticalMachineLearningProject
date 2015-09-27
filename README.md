@@ -1,4 +1,3 @@
-# Coursera-PracticalMachineLearningProject
 
 ---
 title: "Analysis of Personal Fitness Data"
