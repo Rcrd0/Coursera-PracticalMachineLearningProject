@@ -1,9 +1,8 @@
 
----
-title: "Analysis of Personal Fitness Data"
-author: "Michael Brown"
-date: "September 2015"
-output: html_document
+# title: "Analysis of Personal Fitness Data"
+# author: "Michael Brown"
+# date: "September 2015"
+
 ---
 ```{r global_options, include=FALSE}
 knitr::opts_chunk$set(fig.width=12, fig.height=8, warning=FALSE, message=FALSE)
