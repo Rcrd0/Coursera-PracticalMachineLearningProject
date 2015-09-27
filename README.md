@@ -1,6 +1,6 @@
 
 ## Analysis of Personal Fitness Data  
-Michael Brown
+Michael Brown  
 September 2015
 
 
