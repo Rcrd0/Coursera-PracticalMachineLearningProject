@@ -1,7 +1,7 @@
 
-## "Analysis of Personal Fitness Data"
-## "Michael Brown"
-## "September 2015"
+## Analysis of Personal Fitness Data  
+### Michael Brown
+### September 2015
 
 ---
 ```{r global_options, include=FALSE}
